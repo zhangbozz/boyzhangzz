@@ -1,2 +1,4 @@
 Git is a distributed version control system.
 Git is free software.ß under the GPL
+Git is fabulus
+Git tracks changes of files
